@@ -1,6 +1,6 @@
-# Gabor Patch Visual Search Training
+# Gabor Patch Visual Search Training Game
 
-This project is a visual search training application using Gabor patches. It challenges users to find matching patches within a time limit, recording scores for a leaderboard.
+This project is a visual search training game using Gabor patches. It challenges users to find matching patches within a time limit, recording scores for a leaderboard.
 
 ## Features
 
@@ -17,7 +17,7 @@ To run this application, ensure you have Python 3.6 or higher installed. You can
 
 ```bash
 git clone https://github.com/sigjhl/gabor_pygame
-cd gabor-patch-visual-search
+cd gabor_pygame
 ```
 
 ### Step 2: Create a virtual environment (optional but recommended)
