@@ -40,7 +40,7 @@ pip install -r requirements.txt
 Run the application using the following command:
 
 ```bash
-python gabor_patch_app.py
+python gabor_game.py
 ```
 
 ### Controls
